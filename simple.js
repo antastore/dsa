@@ -88,12 +88,12 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 
 //const² pdf & catalog>>>>>>>>>>>>>>>>>>>>>\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-const dtod = "62815143205943@s.whatsapp.net"
+const dtod = "6281262411188@s.whatsapp.net"
 
-const otod = "62815143205943@s.whatsapp.net"
-const ktod = "62815143205943@s.whatsapp.net"
+const otod = "6281262411188@s.whatsapp.net"
+const ktod = "6281262411188@s.whatsapp.net"
 
-const htod = "62815143205943@s.whatsapp.net"
+const htod = "6281262411188@s.whatsapp.net"
 
 //━━━━━━━━━━━━━━━[ DATABASE ]━━━━━━━━━━━━━━━━━//
 
@@ -538,7 +538,8 @@ var ase = new Date();
                              case 20: jamss = "Selamat malam🌙"; break;
                             case 21: jamss = "Selamat malam🌙"; break;
                           case 22: jamss = "Selamat malam 🌙"; break;
-                        case 23: jamss = "Selamat malam🌙"; break;
+                        case 23: jamss = "Selamat malam🌙"; break;
+
             }
             var tampilUcapan = "" + jamss;
 let locale = "id";
